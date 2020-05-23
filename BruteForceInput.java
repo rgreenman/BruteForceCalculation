@@ -26,7 +26,7 @@ public class BruteForceInput {
 		}
 	
 	public static ArrayList getArrayList () {
-		return inputs;
+		return inputs; //FIXME only adding 'q' to the array
 	}
 	}
 
